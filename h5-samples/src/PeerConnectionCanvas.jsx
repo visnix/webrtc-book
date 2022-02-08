@@ -1,6 +1,6 @@
 import React from "react";
 import { Button } from "antd";
-import '../styles/css/pc-canvas.scss';
+import '../styles/css/pc-canvas.css';
 
 //画布对象
 let canvas;

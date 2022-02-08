@@ -1,6 +1,6 @@
 import React from "react";
 import { Button, } from "antd";
-import "../styles/css/record-video.scss";
+import "../styles/css/record-video.css";
 
 //录制对象
 let mediaRecorder;

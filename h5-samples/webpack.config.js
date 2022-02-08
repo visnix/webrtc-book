@@ -19,7 +19,7 @@ module.exports = {
       //加载scss|less|css等样式文件
       {
         test: /\.(scss|less|css)$/,
-        use: ['style-loader', 'css-loader', 'sass-loader']
+        use: ['style-loader', 'css-loader']
       },
     ]
   },
@@ -50,5 +50,6 @@ module.exports = {
     hot: true,
     //加载IP地址
     host: '0.0.0.0',
+    port: '9290'
   }
 };

@@ -1,6 +1,6 @@
 import React from "react";
 import {Button} from "antd";
-import '../styles/css/canvas.scss';
+import '../styles/css/canvas.css';
 
 //视频
 let video;

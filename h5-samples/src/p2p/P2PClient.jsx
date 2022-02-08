@@ -9,7 +9,7 @@ import LocalVideoView from './LocalVideoView';
 import RemoteVideoView from './RemoteVideoView';
 import P2PVideoCall from './P2PVideoCall';
 import P2PLogin from './P2PLogin';
-import './../../styles/css/p2p.scss';
+import './../../styles/css/p2p.css';
 /**
  * 一对一客户端
  */

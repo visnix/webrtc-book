@@ -1,6 +1,6 @@
 import React from "react";
 import { Button } from "antd";
-import '../styles/css/datachannel.scss';
+import '../styles/css/datachannel.css';
 
 //本地连接对象
 let localConnection;

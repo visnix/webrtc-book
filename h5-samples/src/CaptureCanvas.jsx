@@ -1,5 +1,5 @@
 import React from "react";
-import '../styles/css/capture-canvas.scss';
+import '../styles/css/capture-canvas.css';
 
 //MediaStream对象
 let stream;

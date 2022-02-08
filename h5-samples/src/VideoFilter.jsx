@@ -1,6 +1,6 @@
 import React from "react";
 import { Select } from "antd";
-import '../styles/css/video-filter.scss';
+import '../styles/css/video-filter.css';
 
 const { Option } = Select;
 

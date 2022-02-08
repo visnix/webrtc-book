@@ -1,7 +1,7 @@
 import React from 'react';
 import { Modal, Button, Select } from 'antd';
 import SoundMeter from './soundmeter';
-import '../../styles/css/media-settings.scss';
+import '../../styles/css/media-settings.css';
 
 const Option = Select.Option;
 /**
